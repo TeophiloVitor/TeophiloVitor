@@ -4,7 +4,7 @@
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação 
 - 🎓 Técnico em Manutenção e Suporte em Informática
 - 🔭 Fascinado por Tecnologia, Programação e Computação em geral
-- 📫 Como chegar até mim: teophilovitor123@gmail.com ou por alguma das redes abaixo
+- 📫 Como chegar até mim: teophilovitor123@gmail.com ou por alguma das redes a seguir
 ##
 <div align="center">
   <a href="https://github.com/TeophiloVitor">
