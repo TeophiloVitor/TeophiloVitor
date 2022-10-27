@@ -1,8 +1,8 @@
 ### Olá, sou Teophilo Vitor 👋
 
-- 💻 Graduando em Engenharia da Computação
-- 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação 
-- 🎓 Técnico em Manutenção e Suporte em Informática
+- 💻 Graduando em Engenharia da Computação na UFRN
+- 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela UFRN
+- 🎓 Técnico em Manutenção e Suporte em Informática pelo IFRN
 - 🔭 Fascinado por Tecnologia, Programação e Computação em geral
 - 📫 Como chegar até mim: teophilovitor123@gmail.com ou por alguma das redes a seguir
 ##
