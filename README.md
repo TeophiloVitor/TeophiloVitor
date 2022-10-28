@@ -4,7 +4,7 @@
 - 🎓 Bacharel em Ciências e Tecnologia com ênfase em Computação pela UFRN
 - 🎓 Técnico em Manutenção e Suporte em Informática pelo IFRN
 - 🔭 Fascinado por Tecnologia, Programação e Computação em geral
-- 📫 Sinta-se à vontade para me contactar por alguma das redes a seguir:
+- 📫 Sinta-se à vontade para me contactar e conhecer meu perfil por alguma das redes a seguir:
 <div> 
   <a href="https://www.linkedin.com/in/teophilo-vitor-6283a7194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC97X8R9oD4D-F3BjerF2W9w/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
