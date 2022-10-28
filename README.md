@@ -26,5 +26,5 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=1572B6" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-282a36?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" target="_blank">
 </div>
-##
+
 ![Snake animation](https://github.com/TeophiloVitor/TeophiloVitor/blob/output/github-contribution-grid-snake.svg)
