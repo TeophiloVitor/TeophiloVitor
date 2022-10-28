@@ -23,9 +23,10 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=E34F26" target="_blank">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=1572B6" target="_blank">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-282a36?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" target="_blank">
-  
-
 </div>
+
+&nbsp;
+&nbsp;
 
 <div align="center">
   <a href="https://github.com/TeophiloVitor">
